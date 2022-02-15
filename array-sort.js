@@ -15,4 +15,4 @@ const bigNumbers = [66, 58, 81, 92, 9, 6, 37, 13, 2];
 const sortedBigNumbers = bigNumbers.sort(function (a, b) {
     return a - b;
 });
-console.log(sortedBigNumbers);
+//console.log(sortedBigNumbers);
